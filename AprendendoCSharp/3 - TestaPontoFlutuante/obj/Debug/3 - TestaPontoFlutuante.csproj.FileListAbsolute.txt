@@ -1,0 +1,8 @@
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\bin\Debug\3 - TestaPontoFlutuante.exe.config
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\bin\Debug\3 - TestaPontoFlutuante.exe
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\bin\Debug\3 - TestaPontoFlutuante.pdb
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\obj\Debug\3 - TestaPontoFlutuante.csproj.AssemblyReference.cache
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\obj\Debug\3 - TestaPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\obj\Debug\3 - TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\obj\Debug\3 - TestaPontoFlutuante.exe
+C:\Projects\Personal\AprendendoCSharp\3 - TestaPontoFlutuante\obj\Debug\3 - TestaPontoFlutuante.pdb

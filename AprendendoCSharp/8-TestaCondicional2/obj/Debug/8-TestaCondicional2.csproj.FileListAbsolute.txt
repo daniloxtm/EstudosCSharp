@@ -1,0 +1,8 @@
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\bin\Debug\8-TestaCondicional2.exe.config
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\bin\Debug\8-TestaCondicional2.exe
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\bin\Debug\8-TestaCondicional2.pdb
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\obj\Debug\8-TestaCondicional2.csproj.AssemblyReference.cache
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\obj\Debug\8-TestaCondicional2.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\obj\Debug\8-TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\obj\Debug\8-TestaCondicional2.exe
+C:\Projects\Personal\AprendendoCSharp\8-TestaCondicional2\obj\Debug\8-TestaCondicional2.pdb
